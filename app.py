@@ -35,9 +35,9 @@ def input_image_setup(uploaded_file):
     
 ##initialize our streamlit app
 
-st.set_page_config(page_title="Calorie Counter Health App")
+st.set_page_config(page_title="Nutrients Tracker")
 
-st.header("Calorie Counter Health App")
+st.header("Nutrients Tracker")
 input=st.text_input("Input Prompt: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
