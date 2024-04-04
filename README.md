@@ -1,4 +1,8 @@
-# Nutrients Tracker    
+# Nutrients Tracker  
+
+## Try yourself on Streamlit  
+[Nutrients Tracker](https://nutrients-tracker.streamlit.app)
+
 The app counts the calories from the image of a plate/dish. It also advises a person on his/her calorie intake.   
 
 It is a streamlit web app that uses Google's open-source Large Image Model gemini pro (vision LLM).  
