@@ -1,4 +1,7 @@
 # Nutrients Tracker    
+
+![BBQ Platter](food_images\food_6.jpg) 
+
 The app counts the calories from the image of a plate/dish. It also advises a person on his/her calorie intake.   
 
 It is a streamlit web app that uses Google's open-source Large Image Model gemini pro (vision LLM).  
