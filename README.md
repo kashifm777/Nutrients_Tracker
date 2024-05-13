@@ -2,7 +2,8 @@
 
 ![Pakistani Tikka Platter](food_images/food_6.jpg)
 
-## Try yourself on Streamlit  
+## Run on Streamlit  
+You can try this app on Streamlit:  
 [Nutrients Tracker](https://nutrients-tracker.streamlit.app)
 
 This Streamlit web app assists you in tracking your nutrient intake by leveraging Google's GenerativeAI service (Gemini Pro Vision) to analyze images and estimate calorie counts.
